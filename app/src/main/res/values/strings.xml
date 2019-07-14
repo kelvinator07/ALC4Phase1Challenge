@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1 Challenge</string>
+    <string name="about_button">ABOUT ALC</string>
+    <string name="profile_button">MY PROFILE</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="email">Kelvinator4leo@gmail.com</string>
+    <string name="phone">+234 809 171 4477</string>
+    <string name="location">Lagos, Nigeria</string>
+    <string name="alc_track">Android Track</string>
+    <string name="name">Kelvin Obukome</string>
+    <string name="profile">My Profile</string>
+    <string name="about">About ALC</string>
+</resources>
