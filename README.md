@@ -7,7 +7,7 @@ My Profile Button takes you to Information About Me The Developer. (My Picture, 
 Screen Captured on Android Emulator.
 
 <p align="center">
-  <img src="https://github.com/kelvinator07/Clima/blob/master/home_page.png" width="200" /> 
-  <img src="https://github.com/kelvinator07/Clima/blob/master/about_page.png" width="200" />
-  <img src="https://github.com/kelvinator07/Clima/blob/master/profile_page.png" width="200" />
+  <img src="https://github.com/kelvinator07/ALC4Phase1Challenge/blob/master/home_page.png" width="200" /> 
+  <img src="https://github.com/kelvinator07/ALC4Phase1Challenge/blob/master/about_page.png" width="200" />
+  <img src="https://github.com/kelvinator07/ALC4Phase1Challenge/blob/master/profile_page.png" width="200" />
 </p>
