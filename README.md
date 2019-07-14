@@ -1,7 +1,10 @@
 # ALC4Phase1Challenge
-ALC 4.0 Phase 1 Challenge
+ALC 4.0 Phase 1 Challenge App
+
 This challenge is a simple Android Application with three Activities, the first Activity is the main Activity with two Buttons.
+
 About Button takes you to About ALC WebView Page.
+
 My Profile Button takes you to Information About Me The Developer. (My Picture, Full Name, Track, Country, Email and Phone Number)
 
 Screen Captured on Android Emulator.
